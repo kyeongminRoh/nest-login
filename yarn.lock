@@ -928,7 +928,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@nestjs/common@npm:^10.0.0":
+"@nestjs/common@npm:^10.3.3":
   version: 10.3.3
   resolution: "@nestjs/common@npm:10.3.3"
   dependencies:
@@ -5384,7 +5384,7 @@ __metadata:
   resolution: "nest-login@workspace:."
   dependencies:
     "@nestjs/cli": "npm:^10.0.0"
-    "@nestjs/common": "npm:^10.0.0"
+    "@nestjs/common": "npm:^10.3.3"
     "@nestjs/core": "npm:^10.0.0"
     "@nestjs/platform-express": "npm:^10.0.0"
     "@nestjs/schematics": "npm:^10.0.0"
